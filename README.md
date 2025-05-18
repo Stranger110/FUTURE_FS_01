@@ -59,7 +59,7 @@ SMTP_PASSWORD=your-app-password (Use Generated app password available in your gm
  http://localhost:5173
 
 ## 🧪Walkthrough
-Coming Soon..
+https://www.linkedin.com/posts/siddharth-prajapati-330020252_reactjs-threejs-tailwindcss-activity-7328068137977831424-oK_3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5Lg9QBmjv8vcoih3mCtROdrMEndhOPHHs
 
 ## License
 This project was developed in association with Future Interns.
